@@ -1,0 +1,1 @@
+Learn django with two scope of django 
